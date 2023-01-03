@@ -1,3 +1,3 @@
 # ForexTradingBot
 
-Documentation and explanation provided in the Jupyer Notebook file
+Documentation and explanation provided in the Jupyter Notebook file
